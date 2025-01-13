@@ -1,0 +1,3 @@
+server_name=E-bunny's server
+survivor_channel=survivors
+lake_channel=lake
